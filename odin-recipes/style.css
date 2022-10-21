@@ -1,0 +1,31 @@
+* {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 500px;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+ol {
+    list-style-type: none;
+    font-size: small;
+}
+
+ul {
+    list-style-type: none;
+    font-size: small;
+}
+
+p {
+    font-size: small;
+}
